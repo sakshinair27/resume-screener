@@ -190,4 +190,4 @@ Built by **Sakshi Nair** as a personal project to learn RAG architecture hands-o
 
 I'm an MS Data Science graduate from **Indiana University** (2026, GPA 3.9) actively looking for **Data Scientist / ML Engineer** roles.
 
-🔗https://www.linkedin.com/in/sakshinair27/ · ✉️ sakshinair086@gmail.com · 💻
+🔗https://www.linkedin.com/in/sakshinair27/ · ✉️ sakshinair086@gmail.com · 💻https://github.com/sakshinair27
